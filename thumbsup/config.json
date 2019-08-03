@@ -1,0 +1,15 @@
+{
+  "input": "./media",
+  "output": "./gallery",
+  "thumb-size": 500,
+  "large-size": 2000,
+  "photo-quality": 100,
+  "video-quality": 100,
+  "cleanup": true,
+  "concurrency": 8,
+  "sort-albums-by": "start-date",
+  "albums-output-folder": "Albums",
+  "theme": "flow",
+  "title": "Gallery",
+  "footer": "© Robert Melrose 2019"
+}
